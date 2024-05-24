@@ -1,0 +1,31 @@
+.one {
+  background-color: lightblue;
+}
+
+.two {
+  background-color: wheat;
+  max-width: 900px;
+  min-height: 300px;
+  overflow: scroll;
+}
+
+.god-father {
+  width: 900px;
+  background-color: wheat;
+  height: 220px;
+}
+.grandfather {
+  width: 50%;
+  height: 50%;
+  background-color: lightpink;
+}
+.father {
+  background-color: lightsteelblue;
+  width: 50%;
+  height: 50%;
+}
+.son {
+  background-color: limegreen;
+  width: 50%;
+  height: 50%;
+}
